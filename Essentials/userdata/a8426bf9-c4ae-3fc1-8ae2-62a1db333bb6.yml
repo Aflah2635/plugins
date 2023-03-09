@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.70.197.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1642090751665
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1642090762169
+  login: 1642083238826
+money: '0'
+last-account-name: Amelia7532
+logoutlocation:
+  world: c3416d3c-68ac-473d-8afc-31f5f3616d3d
+  world-name: world
+  x: 798.7996704371964
+  y: -54.0
+  z: 274.0848050130533
+  yaw: 84.00033569335938
+  pitch: 11.099894523620605
+lastlocation:
+  world: c3416d3c-68ac-473d-8afc-31f5f3616d3d
+  world-name: world
+  x: 446.3712673943483
+  y: 144.4945198893939
+  z: 942.0461102569174
+  yaw: 171.75048828125
+  pitch: -34.04987716674805

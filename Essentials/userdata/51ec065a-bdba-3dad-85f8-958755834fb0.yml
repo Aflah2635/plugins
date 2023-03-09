@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.87.250.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1665909211358
+  login: 1665908086596
+money: '0'
+last-account-name: ELLA
+logoutlocation:
+  world: e82127ee-f719-45b2-a742-2e748eb74bcf
+  world-name: world
+  x: 937.835928513615
+  y: 73.0
+  z: 64.30000001192093
+  yaw: -118.80328369140625
+  pitch: 2.549830436706543

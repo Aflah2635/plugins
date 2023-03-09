@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.203.118.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644140541522
+  login: 1644138463583
+money: '20.0'
+last-account-name: ragentemad999
+logoutlocation:
+  world: c3416d3c-68ac-473d-8afc-31f5f3616d3d
+  world-name: world
+  x: 690.4954
+  y: 65.0
+  z: 303.8338
+  yaw: 1.1797943115234375
+  pitch: 13.160629272460938
+lastlocation:
+  world: c3416d3c-68ac-473d-8afc-31f5f3616d3d
+  world-name: world
+  x: 719.66534
+  y: -32.7478
+  z: 399.81064
+  yaw: -2.0126953125
+  pitch: -28.118087768554688

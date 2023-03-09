@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.49.46.235
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1639896528499
+  login: 1639896481474
+money: '0'
+last-account-name: Aflah5735
+lastlocation:
+  world: c3416d3c-68ac-473d-8afc-31f5f3616d3d
+  world-name: world
+  x: 825.5
+  y: 66.0
+  z: 120.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c3416d3c-68ac-473d-8afc-31f5f3616d3d
+  world-name: world
+  x: 820.75476
+  y: 65.0
+  z: 100.38079
+  yaw: 159.7569580078125
+  pitch: 23.15008544921875

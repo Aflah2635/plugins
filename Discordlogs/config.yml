@@ -1,0 +1,68 @@
+Server-Name: TMRAGE
+Your-Discord-Tag: ERROR#0427
+Enable-JoinNotification: true
+JoinLog:
+  Webhook-URL: https://discord.com/api/webhooks/969812313278414909/XHcq2qT5zSxbVYKiY-3T5aoaEtfDcC9tFEMzm5M8NEAwMpfkVC0Yj5IWf6SAyr-s76lw
+  Webhook-Color: red
+  Enable: true
+QuitLog:
+  Webhook-URL: https://discord.com/api/webhooks/969812313278414909/XHcq2qT5zSxbVYKiY-3T5aoaEtfDcC9tFEMzm5M8NEAwMpfkVC0Yj5IWf6SAyr-s76lw
+  Webhook-Color: red
+  Enable: true
+DieLog:
+  Webhook-URL: https://discord.com/api/webhooks/969812972664922142/576pbh1G2BUeLk80HQipwv2CGTinBzbXprICgAe8lN7p_1sjQeeJk-9HRLw48tI5Nt_m
+  Webhook-Color: black
+  Enable: true
+CommandLog:
+  Webhook-URL: https://discord.com/api/webhooks/969813097692921926/kTOpfGoTF01DtHpWbJusrSr0pFJOK1j3NsVUuOJMhhGRtuUaDVOe_U5HNStA64KvASM0
+  Webhook-Color: white
+  Enable: true
+ServerStartLog:
+  Webhook-URL: https://discord.com/api/webhooks/969813448034750484/wScnlEz3VC4AIQdsJC_yIwaZ12TqsCmj3nuIU9lXaHeSwuG-1SPe0e3Y1G8L0Ld-faCu
+  Webhook-Color: orange
+  Enable: true
+ServerCloseLog:
+  Webhook-URL: https://discord.com/api/webhooks/969813448034750484/wScnlEz3VC4AIQdsJC_yIwaZ12TqsCmj3nuIU9lXaHeSwuG-1SPe0e3Y1G8L0Ld-faCu
+  Webhook-Color: orange
+  Enable: true
+ChatLog:
+  Webhook-URL: https://discord.com/api/webhooks/969814018967609395/CLZEY9Mq4oQDzFcrw_MtXRzJAreZIKTVn3_8rjLp71IzwTRUjIT9JfMJ9ab5JGk1HB5j
+  Webhook-Color: cyan
+  Keywords: []
+  RoleID: '912105462919491644'
+  Enable: true
+PortalLog:
+  Webhook-URL: https://discord.com/api/webhooks/969814349952720897/5vDjtxg05VOEk_F_rr3QdGjcCw8OoHWognE5o4QGkkJttdQrHeJQjm39Fe6eyctuSxOo
+  Webhook-Color: pink
+  Enable: true
+XpLog:
+  Webhook-URL: https://discord.com/api/webhooks/969814349952720897/5vDjtxg05VOEk_F_rr3QdGjcCw8OoHWognE5o4QGkkJttdQrHeJQjm39Fe6eyctuSxOo
+  Webhook-Color: yellow
+  Enable: true
+  Enable-Cheatdetection: true
+AdvancementLog:
+  Webhook-URL: https://discord.com/api/webhooks/969814963868803082/xvuRj3lOq1vkw7cfkiS2BXTajdbh_x_789F0oq6E9FE5Lgoj8ZVh84O7U2D3lIKrwAqO
+  Webhook-Color: magenta
+  Enable: true
+  Display-Recipes: false
+'EXPERIMENTAL AREA ': PERFORMANCE SPIKES COMMON
+BlockBreakLog:
+  Webhook-URL: https://discord.com/api/webhooks/969816100994940948/sYyu3lLJ7l55GEgcy_GiE47-ks2h8LQyjN3os6SfxV6ImuMhjWX6WgjXy8TTymldvmRM
+  Webhook-Color: blue
+  Enable: false
+  isExperimental: true
+BlockPlaceLog:
+  Webhook-URL: https://discord.com/api/webhooks/969816100994940948/sYyu3lLJ7l55GEgcy_GiE47-ks2h8LQyjN3os6SfxV6ImuMhjWX6WgjXy8TTymldvmRM
+  Webhook-Color: blue
+  Enable: false
+  isExperimental: true
+ServerSettings:
+  Bottom-Thumbnail-URL: ''
+  Top-Thumbnail-URL: https://cdn.discordapp.com/attachments/942380017994858496/951493199917101066/server-icon.png
+  Sendserverinfo: true
+  gavefeedback: true
+  ServerID: OYG7ic
+  Colors: black, blue, cyan, drakgray, gray, green, lightgray, magenta, orange, pink,
+    red, white, yellow
+  Max_Players: 32
+  Survey: false
